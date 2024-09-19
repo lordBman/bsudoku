@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:bsudoku/models/cell_position_model.dart';
 
 class CellModel {
